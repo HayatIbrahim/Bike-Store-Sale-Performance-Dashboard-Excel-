@@ -1,2 +1,7 @@
-# Bike-Store-Sale-Performance-Dashboard-Excel-
-l
+# Bike-Store-Sale-Performance-Dashboard-(Excel)
+l Thrilled to share my comprehensive Bike Store Sales Performance Dashboard created in Excel, featuring three interactive pages that provide deep insights into key business metrics:
+Profit Analysis: Dynamic bar charts allow for seamless toggling between top/bottom products and states, offering a clear view of profit performance. Additional charts break down profit by product category, year, weekday, and monthly trends, with KPIs highlighting unit sold, total revenue, profit, COGS, and profit margin.
+Revenue Performance: Analyze revenue vs. target with a combined line and column chart, where color coding quickly highlights whether revenue meets or falls short of targets. A waffle chart shows revenue distribution by weekend and weekdays, while other charts compare revenue against averages by quarter, weekday, and year, offering a thorough overview of revenue trends.
+Quantity Analysis: This section reveals the story behind product sales, with side-by-side charts comparing top 3 sub-categories by revenue, profit, and quantity sold. It highlights how high-value items like bikes generate substantial revenue and profit despite lower sales volumes, contrasted with high-quantity items like spare parts that contribute less to the bottom line. Additional charts track sales by age group and monthly trends.
+This dashboard provides a detailed, data-driven view of bike sales, empowering informed decision-making and strategic planning.
+hashtag#DataCleaningandformating hashtag#ExcelDataModelling hashtag#PowerPivot hashtag#PivotTableandChart hashtag#DAX hashtag#DynamicExcelChart hashtag#ExcelDataVisualization
